@@ -1,9 +1,3 @@
-/*
-Create an input.txt with your implementation of any c-program
-Then run the lexical.c using gcc
-*/
-
-
 #include<stdio.h>
 #include<ctype.h>
 #include<string.h>
