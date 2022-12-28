@@ -1,3 +1,11 @@
+// C program to Construct of recursive descent parsing for
+// the following grammar
+// E->TE’
+// E’->+TE/@
+// T->FT’
+// T`->*FT’/@
+// F->(E)/id where @ represents null character
+
 #include<stdio.h>
 #include<ctype.h>
 #include<string.h>
