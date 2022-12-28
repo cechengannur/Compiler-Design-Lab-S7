@@ -31,3 +31,9 @@ This repository contains a collection of programs written as part of KTU CSL332 
 [First & Follow](/First-Follow/)
 
 [Shift Reduce Parser](/Shift-Reduce-Parser/)
+
+[Asembly Language Generator](/Assembly_Language_Generator/)
+
+[Recursive Descent Parserr](/Recursive_Descent_Parser/)
+
+
