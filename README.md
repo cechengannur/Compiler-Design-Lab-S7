@@ -26,14 +26,18 @@ This repository contains a collection of programs written as part of KTU CSL332 
 		 - LEX Program to convert the substring abc to ABC from the given input string.[Link](/LEX-Substring)<br>
 		 - LEX program to find out total number of vowels and consonants from the given input sting.[Link](/LEX-Vowels)<br>
  
-
-
-[First & Follow](/First-Follow/)
-
-[Shift Reduce Parser](/Shift-Reduce-Parser/)
-
-[Asembly Language Generator](/Assembly_Language_Generator/)
-
-[Recursive Descent Parserr](/Recursive_Descent_Parser/)
-
+ 3. YACC Programs <br>
+		 - Generate a YACC specification to recognize a valid arithmetic expression that uses
+ operators +, – , *,/ and parenthesis. [Link](/YACC-Valid-Expressions) <br>
+		 - Generate a YACC specification to recognize a valid identifier which starts with a letter
+ followed by any number of letters or digits.     [Link](/YACC-Valid-Identifiers)<br>
+		 - Implementation of Calculator using LEX and YACC. [Link](/YACC-Calculator)<br>
+ 
+  4. [First & Follow](/First-Follow/)
+  5. [Shift Reduce Parser](/Shift-Reduce-Parser/)
+  6. [Recursive Descent Parser](/Recursive_Descent_Parser/)
+  7. [Intermediate Code Generator](/Intermediate_Code_Generator/)
+  8. [Constant Propagation](/Constant-Propagation/)
+  9. [Assembly Language Generator](/Assembly_Language_Generator/)
+  10.[NFA to DFA](/NFA-to-DFA/)
 
