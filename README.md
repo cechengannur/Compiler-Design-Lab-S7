@@ -20,7 +20,7 @@ This repository contains a collection of programs written as part of KTU CSL332 
 ### Compiler Design Programs
 
  1. Design and implement a lexical analyzer using C language to recognize all valid tokens in the input program. The lexical analyzer should ignore redundant spaces, tabs and newlines. It should also ignore comments.
-[Link](/Lexical-Analayzer)
+[Link](/Lexical-Analayzer-Using-C)
  2. LEX Programs <br>
 		 - LEX Program to count the numbers of lines, words, spaces, and characters in a given statement [Link](/LEX-Count) <br>
 		 - LEX Program to convert the substring abc to ABC from the given input string.[Link](/LEX-Substring)<br>
