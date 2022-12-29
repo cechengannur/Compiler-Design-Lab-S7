@@ -51,3 +51,9 @@ int main()
     }
 
 }
+
+// To compile this file, use the following command:
+// yacc -d identifier.y
+// lex identifier.l
+// gcc lex.yy.c y.tab.c -w
+// ./a.out
