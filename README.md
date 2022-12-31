@@ -39,5 +39,7 @@ This repository contains a collection of programs written as part of KTU CSL332 
   7. [Intermediate Code Generator](/Intermediate_Code_Generator/)
   8. [Constant Propagation](/Constant-Propagation/)
   9. [Assembly Language Generator](/Assembly_Language_Generator/)
-  10.[NFA to DFA](/NFA-to-DFA/)
+  10. [NFA to DFA](/NFA-to-DFA/)
+  11. [Lexical Analyzer Using LEX](/Lexical-Analyzer-Using-LEX/)
+  
 
