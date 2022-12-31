@@ -1,6 +1,5 @@
 #include <stdio.h>
-int Fa[10][10][10], states[2][10], row = 0, col = 0, sr = 0, sc = 0, th = 0,
-                                   in, stat, new_state[10][10], max_inp = -1, no_stat;
+int Fa[10][10][10], states[2][10], row = 0, col = 0, sr = 0, sc = 0, th = 0, in, stat, new_state[10][10], max_inp = -1, no_stat;
 FILE *fp;
 int search(int search_var)
 {
@@ -262,3 +261,9 @@ int main()
     printf("\n\n");
     return 0;
 }
+
+//Algorithm for NFA to DFA conversion
+
+
+
+//Example
