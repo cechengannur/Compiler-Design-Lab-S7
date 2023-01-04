@@ -10,7 +10,7 @@ CSL411 Compiler Lab
 
 <div align="center">
 
-This repository contains a collection of programs written as part of KTU CSL332 Networking Lab
+This repository contains a collection of programs written as part of KTU CSL411 Compiler Lab
 
 </div>
 
