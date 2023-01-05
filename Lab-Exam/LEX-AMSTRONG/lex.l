@@ -4,16 +4,26 @@
     #include <stdio.h>
     #include <string.h>
     #include <ctype.h>
+    #include <math.h>
 
     int isAmstrong(int n)
     {
-        int sum = 0, temp = n, rem;
+        int sum = 0, temp = n, rem, count = 0;
+
+        while (temp != 0)
+        {
+            temp /= 10;
+            count++;
+        }
+
+        temp = n;
         while (temp != 0)
         {
             rem = temp % 10;
-            sum += rem * rem * rem;
+            sum += pow(rem, count);
             temp /= 10;
         }
+
         if (sum == n)
             return 1;
         else
