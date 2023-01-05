@@ -44,3 +44,12 @@ return 1;
     gcc lex.yy.c y.tab.c -w
     ./a.out
  */
+
+// Algorithm YACC & LEX Calculator
+
+// 1. Start
+// 2. Read the expression
+// 3. Check for the valid expression matching the grammar
+// 4. If the expression is valid, then evaluate the expression
+// 5. If the expression is invalid, then display the error message
+// 6. Stop

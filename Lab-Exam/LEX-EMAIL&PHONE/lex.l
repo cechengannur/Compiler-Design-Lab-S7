@@ -31,3 +31,15 @@ int yywrap()
 {
     return 1;
 }
+
+
+// Algorithm
+
+// 1. Read input from file.
+// 2. Send input to yylex() function.
+// 3. yylex() function will check for the pattern.
+// 4. If pattern matches, then it will print the output.
+// 5. If pattern does not match, then it will print the invalid input.
+// 6. If input is EOF, then it will return 1.
+// 7. Step 2 to 6 will be repeated until EOF is reached.
+// 8. Stop
